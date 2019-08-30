@@ -1,0 +1,7 @@
+jupyterlab
+numpy==1.8.2
+scipy
+pillow
+ia636
+ia870
+adpil
